@@ -1,0 +1,2 @@
+# gitclass
+ google homepage
